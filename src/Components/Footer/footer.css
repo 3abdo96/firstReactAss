@@ -1,0 +1,40 @@
+.footer{
+    background-color: #2c3e50;
+        color: #fff;
+        justify-content: center;
+        text-align: center;
+        padding: 40px;
+        margin: 0;
+}
+
+.card{
+    background-color: #2c3e50;
+}
+/* .footer p{
+    color: #fff;
+} */
+
+
+
+.icons .icon{
+    border: 1px white solid;
+        border-radius: 50%;
+       
+        padding: 10px;
+}
+
+.card{
+       border-color: transparent;
+}
+.p{
+    background-color: #1a252f;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+.p p{
+    text-align: center;
+        color: #f0f8ff;
+        padding-top: 10px;
+}
+

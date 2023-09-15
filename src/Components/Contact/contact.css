@@ -1,0 +1,23 @@
+.contact .title{
+    color: rgb(44, 62, 80);
+    
+}
+
+.contact .line{
+            height: 4px;
+            width: 80px;
+            background-color: rgb(44, 62, 80);
+        
+}
+
+.sbtn{
+     background-color: rgb(44, 62, 80);
+}
+
+.sbtn:hover{
+    background-color: rgb(44, 62, 80) !important;
+}
+
+.top {
+    top: 40px !important;
+}
